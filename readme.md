@@ -1,5 +1,4 @@
 # SSL
 
-+ <p><b>Compilador seleccionado:</b> GCC (GNU Compiler Collection)</p>
-* <p><b>Versión del compilador:</b> 14.2.0</p>
-* <p><b>Versión de C que compila:</b> C23 y anteriores</p>
++ <p><b>Alumana:</b> Silvana Desirée Di Leo</p>
+* <p><b>Legajo:</b> 222.273-5</p>
